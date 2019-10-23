@@ -19,8 +19,8 @@
 	"url": "https://github.com/flywheel-apps/openslide-to-png",
 	"custom": {
 		"gear-builder": {
-			"container": "6a740984f5ec5496484eaceea6ad61535b074c1180f052bcbf8c04a57452ff97",
-			"image": "gear-builder-vmsjwdwegh-20180914143841"
+			"category": "converter",
+			"image": "openslide"
 		}
 	}
 }
