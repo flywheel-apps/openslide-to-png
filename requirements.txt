@@ -1,0 +1,4 @@
+openslide-python~=1.1.1
+flywheel-sdk~=10.1.0
+
+
