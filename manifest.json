@@ -2,7 +2,7 @@
 	"name": "openslide-to-png",
 	"label": "OpenSlide to PNG file converter",
 	"description": "OpenSlide: Uses the OpenSlide library to convert whole-slide image files to .png for viewing in Flywheel. Supported file types include Aperio (.svs, .tif), Hamamatsu (.ndpi, .vms, .vmu), Leica (.scn), MIRAX (.mrxs), Philips (.tiff), Sakura (.svslide), Trestle (.tif), Ventana (.bif, .tif), Generic tiled TIFF (.tif)",
-	"version": "0.0.1",
+	"version": "0.0.1_1.1.1",
 	"inputs": {
 		"image": {
 			"base": "file",
