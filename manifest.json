@@ -24,19 +24,19 @@
 		}
 	},
 	"command": "python run.py",
-	"author": "Travis Richardson",
-	"maintainer": "Travis Richardson",
+	"author": "Adam Goode, M. Satyanarayanan, Carnegie Mellon University <https://openslide.org/>",
+	"maintainer": "Flywheel <support@flywheel.io>",
 	"license": "MIT",
 	"source": "https://github.com/flywheel-apps/openslide-to-png",
 	"url": "https://github.com/openslide/openslide-python",
 	"custom": {
 		"gear-builder": {
 			"category": "converter",
-			"image": "flywheel/openslide-to-png"
+			"image": "flywheel/openslide-to-png:0.0.1_1.1.1"
 		},
-    "docker-image": "flywheel/openslide-to-png",
+    "docker-image": "flywheel/openslide-to-png:0.0.1_1.1.1",
 		"flywheel":{
-			"suite": "image_tools"
+			"suite": "flywheel"
 		}
 	}
 }
