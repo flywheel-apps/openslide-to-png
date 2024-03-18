@@ -39,8 +39,8 @@
       "suite": "Conversion",
       "classification": {
         "species": [
-          "Human",
-          "Animal"
+          "Animal",
+          "Human"
         ],
         "organ": [
           "Any"
